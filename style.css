@@ -1,0 +1,46 @@
+.left {
+    width: 60%;
+}
+
+.right {
+    background-color: blue;
+    width: 40%;
+}
+
+.raw1 {
+    background-color: greenyellow;
+    height: 40%;
+}
+
+.top {
+    background-color: pink;
+    height: 50%;
+}
+
+.bottom {
+    background-color: aqua;
+    height: 50%;
+}
+
+.raw2 {
+    height: 45%;
+    display: flex;
+}
+
+.raw3 {
+    background-color: orange;
+    height: 15%;
+}
+
+.raw2-left {
+    width: 50%;
+}
+
+.raw2-right {
+    background-color: grey;
+    width: 50%;
+}
+
+body {
+    display: flex;
+}
